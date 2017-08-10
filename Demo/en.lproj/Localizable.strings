@@ -1,0 +1,9 @@
+/* 
+  Localization.strings
+  Demo
+
+  Created by UNISK on 15/10/13.
+  Copyright © 2015年 ZYQ. All rights reserved.
+*/
+ "lan_text_title" ="This is English!";
+ "lan_button_click" ="Click Here!";
